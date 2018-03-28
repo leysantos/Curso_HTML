@@ -4,6 +4,12 @@
       <title>Primeiro exercíco do curso de html</title>
   </header>
   <body>
-      <p>Olá mundo!</p>
+      <section>
+          <p>Olá mundo!</p>
+      </section>
+      
+      <section>
+          <p>Olá querido usuário seja bem-vindo!</P>
+      </section>
   </body>
 </html>
